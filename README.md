@@ -12,7 +12,7 @@ This template includes:
 
 ## How can I view this website template?
 
-Simply git-clone the repository and open [design-it-template/index.html](index.html) to explore!
+Simply git-clone the repository and open [index](index.html) page to explore!
 
 __Note__: Make sure to have all files under the same root folder as the html
 require the css files in order for the website to be readable.
